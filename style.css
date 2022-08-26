@@ -2,13 +2,13 @@
 --background:	#b8ace6;
 --foreground:	#4a5bba;
 --comment:	#676e95;
---accent:	#559584;
+--accent:	#71998e;
 --redish:	#ff5370;
 --orangis:	#f78c6c;
 --yellowih:	#ffcb6b;
 --greenish:	#c3e88d;
 --bluish:	#4421b4;
---purplish:	#cdabe3;
+--purplish:	#e5cdf5;
 }
 
 body {
@@ -73,6 +73,7 @@ body {
     text-align: left;
     padding: 0.1em;
     border-radius: 0.20em;
+    cursor: pointer;
 }
 
 .groceryItem:hover {
